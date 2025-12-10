@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log
+yarn.lock
+pnpm-lock.yaml
+
+# Flutter / Android / iOS
+build/
+.dart_tool/
+.android/
+.ios/
+pubspec.lock
+
+# Sistema
+.DS_Store
+Thumbs.db
